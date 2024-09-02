@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a Software Engineer with a Master degree and more than a decade of experience. I'm specialized in Angular frontend and .Net Backend, I also have a hands on experience on Azure.
+I am a seasoned Software Engineer with a Master's degree and over ten years of experience. My expertise spans across multiple technologies, including Angular, C#, .NET, SQL, Azure API Management (APIM), Azure Pipelines, and Azure B2C. I specialize in building and managing robust, scalable applications.
 
-* 🌍  I'm based in Texas
-* 🖥️  See my portfolio at [My Portfolio](http://mohammad.moharram.com)
+* 🌍  I'm based in USA
 * ✉️  You can contact me at [mohammad.a.moharram@gmail.com](mailto:mohammad.a.moharram@gmail.com)
 * 🧠  I'm learning AI \[TeleportHQ\]
 * 🤝  I'm open to collaborating on Projects
