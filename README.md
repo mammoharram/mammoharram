@@ -7,8 +7,6 @@ Software Engineer
 I am a seasoned Software Engineer with a Master's degree and over ten years of experience. My expertise spans across multiple technologies, including Angular, C#, .NET, SQL, Azure API Management (APIM), Azure Pipelines, and Azure B2C. I specialize in building and managing robust, scalable applications.
 
 * 🌍  I'm based in USA
-* ✉️  You can contact me at [mohammad.a.moharram@gmail.com](mailto:mohammad.a.moharram@gmail.com)
-* 🧠  I'm learning AI \[TeleportHQ\]
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
